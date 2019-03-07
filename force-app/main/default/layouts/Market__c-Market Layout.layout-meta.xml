@@ -26,6 +26,10 @@
                 <behavior>Readonly</behavior>
                 <field>Total_Daily_Booking_Rate__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>City__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
